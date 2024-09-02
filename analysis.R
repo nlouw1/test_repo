@@ -5,3 +5,4 @@ summary(x)
 median(x)
 mean(x)
 
+#it was nice having lunch together!
